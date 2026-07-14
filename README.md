@@ -1,2 +1,6 @@
-# DSA
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# Data Structures & Algorithms
+
+This repository contains my solutions to various Data Structures & Algorithms problems, organized by topic.
+
+**Language:** C++  
+**Focus:** Problem Solving • Algorithms • Interview Preparation
