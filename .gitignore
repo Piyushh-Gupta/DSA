@@ -1,0 +1,22 @@
+# VS Code
+.vscode/
+
+# Executables
+*.exe
+*.out
+
+# Object Files
+*.o
+*.obj
+
+# Debug Files
+*.pdb
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+
+# macOS
+.DS_Store
